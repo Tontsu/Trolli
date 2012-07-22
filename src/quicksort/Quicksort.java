@@ -51,14 +51,6 @@ public class Quicksort {
             while (A[j] > jako) {
                   j--;}
 
-//            do {
-//                i++;
-//            } while (A[i] < jako);
-//
-//            do {
-//                j--;
-//            } while (A[j] > jako);
-
             if (i <= j) {
 
                 apu = A[i];
